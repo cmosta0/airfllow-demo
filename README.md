@@ -137,8 +137,6 @@ smtp_mail_from = email_address
 
 Ok, let's explore airflow webserver....
 
-![Alt Text](https://media.giphy.com/media/Quh1CAKOTRCl9VVU3f/giphy.gif)
-
 
 ### Practice - Set Operator Dependencies
 
