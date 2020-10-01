@@ -1,0 +1,6 @@
+.idea/
+venv/
+resources/pyspark/tmp_output/
+airflow/*
+!airflow/dags/
+*.pyc

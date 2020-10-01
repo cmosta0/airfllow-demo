@@ -1,0 +1,8 @@
+apache-airflow==1.10.2
+# Tenacity is installed by apache-airflow, however for version 1.10.2 it installs `tenacity==4.8.0`
+# which has async keyword error for python 3
+tenacity==5.0.4
+
+# spark for demo purposes
+pyspark
+datadog

@@ -1,0 +1,6 @@
+From: https://airflow.apache.org/
+Pure Python
+
+No more command-line or XML black-magic! Use standard Python features to create your workflows,
+including date time formats for scheduling and loops to dynamically generate tasks.
+This allows you to maintain full flexibility when building your workflows.
